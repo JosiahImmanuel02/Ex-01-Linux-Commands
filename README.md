@@ -1,6 +1,5 @@
 # Ex-01-Linux-Commands
 
-
 ## Aim:
 
 To study the execution of various Linux operating system commands.
@@ -223,20 +222,11 @@ The find command is used to find a particular file within a directory.
 Syntax: find.-name”*.pdf”
 
 
+### Sample Output:
 
+<img width="1269" height="524" alt="Screenshot 2025-08-29 134952" src="https://github.com/user-attachments/assets/2442d02f-f37e-4d29-ad37-a2a882b89d56" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1261" height="362" alt="Screenshot 2025-08-29 135007" src="https://github.com/user-attachments/assets/f8cc7ffb-e88f-4e7a-8ab0-096ee40934a0" />
 
 
 
